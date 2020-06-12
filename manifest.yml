@@ -1,5 +1,5 @@
 applications:
 - path: .
-  name: GetStartedGo
+  name: baidu
   random-route: true
   memory: 256M
